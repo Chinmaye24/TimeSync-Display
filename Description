@@ -1,0 +1,2 @@
+TimeSync is a Python-based digital clock application designed to display accurate, real-time system time through a sleek and responsive interface. Developed using Python's standard libraries and GUI frameworks like Tkinter, TimeSync showcases real-time programming, GUI design, and event-driven logic in a compact and easy-to-use tool.
+Whether run in a graphical window or the terminal, TimeSync offers an intuitive experience for users and serves as a solid demonstration of Python’s capabilities in building real-time applications.
